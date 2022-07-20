@@ -1,0 +1,82 @@
+@charset "UTF-8";
+body{
+    background-color: #0F1412;
+    color: #F2F1ED;
+    font-family: 'Krona One', 'Trebuchet MS', sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+
+}
+
+h1{
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    left:  10%;
+}
+h2{
+    font-size:20px;
+    position: relative;
+    top: 40px;
+    left:  10%;
+}
+h4{
+    font-size: 14px;
+    position: relative;
+    top: 0px;
+}
+
+p1{
+    font-size: small;
+    position: relative;
+    top: 40px;
+    left: 10%;
+}
+p2{
+    font-size: small;
+    position: relative;
+    top: 40px;
+    left:  10%;
+}
+
+.posbruxo{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+.observação {
+    font-size: 18px;
+    position: absolute;
+    text-align: center;
+    top: 5%;
+    left: 50%;
+   }
+   .linha{
+    background-color: #F2F1ED;
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    height: 3px;
+    width: 618px;
+    
+}
+
+.conteiner{
+    width: 223px;
+    position: relative;
+    left: 10%;
+    top: 60px;
+}
+.conteiner img{
+    width: 100%;
+}
+
+.texto{
+    font-size: 11px;
+    text-align: left;
+    color: #0F1412;
+    position: absolute;
+    top:20px ;
+    left: 30px;
+}
